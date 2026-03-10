@@ -8,8 +8,8 @@ module.exports = {
     ownerName: ['Knight Bot Mini', 'Professor'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'Knight Bot Mini',
-    prefix: '.',
+    botName: 'ZeynoNpt',
+    prefix: '.?!;:*,(&€#@£¥√π',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
     newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding

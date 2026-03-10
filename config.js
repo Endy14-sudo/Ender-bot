@@ -8,12 +8,12 @@ module.exports = {
     ownerName: ['Knight Bot Mini', 'Professor'], // Owner names corresponding to ownerNumber array
     
     // Bot Configuration
-    botName: 'ZeynoNpt',
+    botName: 'Zeynobot',
     prefix: '.?!;:*,(&€#@£¥√π',
     sessionName: 'session',
     sessionID: process.env.SESSION_ID || '',
     newsletterJid: '120363161513685998@newsletter', // Newsletter JID for menu forwarding
-    updateZipUrl: 'https://github.com/mruniquehacker/KnightBot-Mini/archive/refs/heads/main.zip', // URL to latest code zip for .update command
+    updateZipUrl: 'https://github.com/Endy14-sudo/Ender-bot/archive/refs/heads/main.zip', // URL to latest code zip for .update command
     
     // Sticker Configuration
     packname: 'Knight Bot Mini',
@@ -81,9 +81,9 @@ module.exports = {
     
     // Social Links (optional)
     social: {
-      github: 'https://github.com/mruniquehacker',
-      instagram: 'https://instagram.com/yourusername',
-      youtube: 'http://youtube.com/@mr_unique_hacker'
+      github: 'https://github.com/Endy14-sudo/Ender-bot',
+      instagram: '',
+      youtube: ''
     }
 };
   
